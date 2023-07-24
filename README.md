@@ -20,5 +20,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tatiana-01&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tatiana-01&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-01&layout=compact&theme=radical" />
 </a>
