@@ -22,7 +22,7 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-01&layout=compact&theme=buefy"/>
-</a><br>
+</a></br>
 
 
 ![Thank you](https://github.com/tatiana-01/tatiana-01/raw/main/gracias.gif)
