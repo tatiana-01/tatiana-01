@@ -1,6 +1,6 @@
 ![Hey there](https://github.com/tatiana-01/tatiana-01/raw/main/inicio.gif)
 
-<br />
+    <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiana-01&label=Profile%20views&color=0e75b6&style=flat" alt="tatiana-01" /> </p>
 
@@ -23,7 +23,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-01&layout=compact&theme=buefy"/>
 </a>
-<br />
+   <br />
 
 
 ![Thank you](https://github.com/tatiana-01/tatiana-01/raw/main/gracias.gif)
