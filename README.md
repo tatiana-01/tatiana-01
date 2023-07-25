@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tatiana Paredes</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+![Hey there](https://github.com/tatiana-01/tatiana-01/raw/main/inicio.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiana-01&label=Profile%20views&color=0e75b6&style=flat" alt="tatiana-01" /> </p>
 
@@ -23,4 +22,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-01&layout=compact&theme=buefy"/>
 </a>
 
-![Hey there](https://github.com/tatiana-01/tatiana-01/raw/main/gracias.gif)
+![Thank you](https://github.com/tatiana-01/tatiana-01/raw/main/gracias.gif)
